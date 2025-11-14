@@ -5,7 +5,11 @@
 I'm a full-stack developer with **6+ years of experience** building scalable, real-world web applications used daily by businesses across Indonesia.  
 I enjoy turning complex business rules into clean, reliable systems using **Ruby on Rails**, **React**, **Vue.js**.
 
----
+## 🕹️ Pac-Man Break
+
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/lopspower/CoolGithubProfile/main/pacman-eat.svg" />
+</p>
 
 ## 🛠️ Tech Stack
 
