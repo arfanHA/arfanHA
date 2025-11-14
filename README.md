@@ -7,52 +7,6 @@ I enjoy turning complex business rules into clean, reliable systems using **Ruby
 
 ---
 
-## 🕹️ Pac-Man Mode
-
-<p align="center">
-<svg width="500" height="100" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
-
-<rect width="100%" height="100%" fill="#050816" rx="12" />
-
-<text x="100" y="20" fill="#ffffff" text-anchor="middle" font-family="monospace" font-size="10">
-PAC-MAN MODE: SAIFULLAH
-</text>
-
-<defs>
-  <mask id="pacman-mouth">
-    <rect width="100%" height="100%" fill="white" />
-    <polygon id="mouth" points="50,45 70,35 70,55" fill="black">
-      <animate attributeName="points" dur="0.35s" repeatCount="indefinite"
-        values="
-          50,45 70,35 70,55;
-          50,45 65,40 65,50;
-          50,45 70,35 70,55
-        "
-      />
-    </polygon>
-  </mask>
-</defs>
-
-<circle cx="50" cy="45" r="18" fill="#FFD54F" mask="url(#pacman-mouth)" />
-<circle cx="55" cy="38" r="2" fill="black" />
-
-<g fill="#FFC107">
-  <circle cx="130" cy="45" r="3">
-    <animate attributeName="cx" from="130" to="50" dur="1.5s" repeatCount="indefinite" />
-  </circle>
-
-  <circle cx="150" cy="45" r="3">
-    <animate attributeName="cx" from="150" to="50" dur="1.5s" begin="0.3s" repeatCount="indefinite" />
-  </circle>
-
-  <circle cx="170" cy="45" r="3">
-    <animate attributeName="cx" from="170" to="50" dur="1.5s" begin="0.6s" repeatCount="indefinite" />
-  </circle>
-</g>
-
-</svg>
-</p>
-
 ## 🛠️ Tech Stack
 
 ### **Backend**
