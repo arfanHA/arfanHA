@@ -1,11 +1,9 @@
-# 👋 Hi, I'm **Saifullah (Ipul)**
+# 👋 Hi, I'm **Saifullah**
 
 ### 🚀 Full-Stack Developer | Ruby on Rails & Modern JavaScript | Remote-Ready Engineer
 
-I'm a full-stack developer with **5+ years of experience** building scalable, real-world web applications used daily by businesses across Indonesia.  
-I enjoy turning complex business rules into clean, reliable systems using **Ruby on Rails**, **React**, **Vue.js**, and **AWS**.
-
-I’m currently open to **remote full-time opportunities (APAC/Global)** and **freelance projects worldwide**.
+I'm a full-stack developer with **6+ years of experience** building scalable, real-world web applications used daily by businesses across Indonesia.  
+I enjoy turning complex business rules into clean, reliable systems using **Ruby on Rails**, **React**, **Vue.js**.
 
 ---
 
@@ -57,7 +55,7 @@ I’m currently open to **remote full-time opportunities (APAC/Global)** and **f
 
 ## 🧩 Featured Projects
 
-### **📊 Rolling Forecast (RoFo) System**
+### **📊 Forecast System**
 
 Business forecasting engine with:
 
@@ -67,7 +65,7 @@ Business forecasting engine with:
 - Excel reports & data validation
 - Distributor/region coverage filters
 
-### **🧾 Confirm Monthly Order (CMO) System**
+### **🧾 Confirm Order System**
 
 Ordering system featuring:
 
@@ -106,8 +104,8 @@ Ordering system featuring:
 
 ## 📬 Contact Me
 
-- **Email:** saifullah.dev.contact@gmail.com
-- **LinkedIn:** _your LinkedIn URL here_
+- **Email:** surat.saifullah@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/saifullah-st/
 - **GitHub:** you're already here 😄
 
 ---
@@ -115,9 +113,9 @@ Ordering system featuring:
 ## ✨ Fun Facts
 
 - Linux-only developer 🐧
-- TailwindCSS enjoyer 🎨
 - Loves debugging complex business logic
 - Works best with music 🎧
+- Badminton Player only on weekend 😄
 
 ---
 
